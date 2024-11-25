@@ -1,3 +1,4 @@
 build-Conway-Desktop_Qt_6_2_2_GCC_64bit-Debug
 *.exe
 *.o
+.cache
